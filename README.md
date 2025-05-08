@@ -29,7 +29,8 @@ FROM reatcodeltd_axldp_finance
 group by city
 order by city;
 
-5.SELECT LastName, Sum(Age) as SumAge
+5.
+SELECT LastName, Sum(Age) as SumAge
 FROM maintable_5Y69Y
 where LastName = "Smith"
 group by LastName ;
