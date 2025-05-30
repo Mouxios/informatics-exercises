@@ -1,5 +1,9 @@
 # informatics-exercises
-Ασκησεις πληροφορικης σε Excel, SQL, Python.
+Αυτό το repository περιλαμβάνει μια συλλογή από ασκήσεις. Καλύπτει θέματα όπως:
+
+- Ανάλυση αλγορίθμων
+- Δομές δεδομένων
+- Ανάπτυξη λογισμικού
 
 Εxcel
 [excel τελικη.xlsx](https://github.com/user-attachments/files/20101654/excel.xlsx)
