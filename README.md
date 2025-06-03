@@ -1,7 +1,8 @@
 # informatics-exercises
 
 Εxcel
-[excel τελικη.xlsx](https://github.com/user-attachments/files/20101654/excel.xlsx)
+[excel.xlsx](https://github.com/user-attachments/files/20576877/excel.xlsx)
+
 
 SQL
 
