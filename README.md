@@ -44,6 +44,17 @@ SELECT title FROM movies
 ORDER BY title ASC
 LIMIT 5 OFFSET 5;
 
+8.
+SELECT customer_id, SUM(amount) AS total_amount
+FROM orders
+GROUP BY customer_id;
+
+9.
+SELECT customers.name, SUM(orders.amount) AS total_amount
+FROM customers
+JOIN orders ON customers.customer_id = orders.customer_id
+GROUP BY customers.name;
+
 PYTHON
 
 1.
